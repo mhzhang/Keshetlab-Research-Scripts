@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
 #Created by MoHan Zhang
+#Last modification date: Nov 30, 2016
+#Contact: mohan_z@hotmail.com
 #Sample Usage: python pif_extract_features_single_cell.py -p pifFolder/MIAPaCa_3.pif -o output/ -n 6
 #
 
