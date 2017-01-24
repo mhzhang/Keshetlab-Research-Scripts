@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
 #Modified by MoHan
+#Last modification date: Nov 30, 2016
+#Contact: mohan_z@hotmail.com
 #Sample Usage: python pif_extract_features_wrapper.py -p pifFolder/ -o output/
 
 
