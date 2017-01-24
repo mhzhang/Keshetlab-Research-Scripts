@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
 #Created by MoHan
+#Last modification date: Nov 30, 2016
+#Contact: mohan_z@hotmail.com
 #Sample Usage: python csv_merger.py -p csv_test/ -o sample
 
 
