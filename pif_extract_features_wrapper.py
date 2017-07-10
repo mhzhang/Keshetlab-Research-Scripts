@@ -71,8 +71,8 @@ def run_pif_extract_features(pifFolder,outFolder):
 			subprocess.call(['python', 'pif_extract_features.py',
 				'-i', pif,
 							 '-o', outind,
-				'-l', '1600',
-				'-w', '1200',
+				'-l', '1200',
+				'-w', '1600',
 				'-S', '5',
 				'-p', '-v', '-m'])
 
