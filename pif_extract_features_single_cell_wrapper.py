@@ -61,8 +61,8 @@ def run_pif_extract_features_single_cells(pifFile,outFolder, numCells):
 			subprocess.call(['python', 'pif_extract_features.py',
 				'-i', pifFile,
 							 '-o', outind,
-				'-l', '1601',
-				'-w', '1201',
+				'-l', '1201',
+				'-w', '1601',
 				'-S', '5',
 				'-T%d' %i])
 
